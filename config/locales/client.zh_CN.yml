@@ -1212,7 +1212,7 @@ zh_CN:
         help: "你已经阅读过的主题"
       categories:
         title: "分类"
-        title_in: "林书豪球迷论坛 - {{categoryName}}"
+        title_in: "林书豪球迷网 - {{categoryName}}"
         help: "归属于不同分类的所有主题"
       unread:
         title:
