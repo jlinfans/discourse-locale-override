@@ -822,6 +822,9 @@ zh_CN:
         visible: "使其列于主题列表"
         reset_read: "重置阅读数据"
         multi_select: "选择帖子"
+      bookmarked:
+        title: '书签'
+        help： '在这里放置书签'
       reply:
         title: '回复'
         help: '开始给本主题撰写回复'
