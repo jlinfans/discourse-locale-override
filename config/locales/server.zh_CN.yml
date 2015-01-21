@@ -253,15 +253,15 @@ zh_CN:
       topic_exists_no_oldest: "不能删除该分类，因为主题数量为 %{count}。"
   trust_levels:
     newuser:
-      title: "新用户"
+      title: "新手"
     basic:
-      title: "初级用户"
+      title: "精英"
     regular:
-      title: "成员"
+      title: "长老"
     leader:
-      title: "常规"
+      title: "元老"
     elder:
-      title: "领导"
+      title: "贵宾"
     change_failed_explanation: "你尝试将 %{user_name} 降至 '%{new_trust_level}'。然而他们的信任等级已经是 '%{current_trust_level}'。%{user_name} 将仍是 '%{current_trust_level}' —— 如果你想要降级用户，先锁定信任等级"
   rate_limiter:
     slow_down: "你已经重复这一操作太多次了，请一会再重试"
