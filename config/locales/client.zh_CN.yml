@@ -126,8 +126,12 @@ zh_CN:
       topic_count: "主题"
       post_count: "帖子"
       user_count: "用户"
-    bookmarks:
+    bookmarked:
       title: "书签"
+      help:
+      bookmark: "点击添加书签"
+      unbookmark: "点击移除书签"
+    bookmarks:
       not_logged_in: "抱歉，你需要先登录才能给帖子加书签"
       created: "你已经为此贴添加书签"
       not_bookmarked: "你已经阅读过此帖；点此为其添加书签"
@@ -1159,6 +1163,8 @@ zh_CN:
     topic_statuses:
       warning:
         help: "这是一个正式的警告。"
+      bookmarked:
+        help: "你为帖子放上了书签"
       locked:
         help: "本主题已关闭；不再接受新的回复"
       unpinned:
