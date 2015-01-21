@@ -203,7 +203,7 @@ zh_CN:
       all: "所有分类"
       all_subcategories: "全部"
       no_subcategory: "无"
-      category: "分类"
+      category: "林书豪球迷网"
       posts: "新帖子"
       topics: "新主题"
       latest: "最新"
@@ -1216,7 +1216,7 @@ zh_CN:
         title: "已阅"
         help: "你已经阅读过的主题"
       categories:
-        title: "分类"
+        title: "林书豪球迷网"
         title_in: "林书豪球迷网 - {{categoryName}}"
         help: "归属于不同分类的所有主题"
       unread:
