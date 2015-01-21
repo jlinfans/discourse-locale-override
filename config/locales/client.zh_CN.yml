@@ -335,7 +335,7 @@ zh_CN:
         ok: "你的名字符合要求"
       username:
         title: "用户名"
-        instructions: "英文、数字和符号，没有空格。请勿使用政治人物名字。"
+        instructions: "英文、数字和符号，没有空格。请勿涉及政治。"
         short_instructions: "其他人可以用 @{{username}} 来提及你"
         available: "你的用户名可用"
         global_match: "电子邮箱与注册用户名相匹配"
