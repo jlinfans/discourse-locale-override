@@ -1165,11 +1165,13 @@ zh_CN:
         help: "本主题已关闭；不再接受新的回复"
       unpinned:
         title: "解除置顶"
+        help: "使帖子恢复默认状态"
       pinned_globally:
         title: "全局置顶"
         help: "本主题已置顶；它将始终显示在它所属分类的顶部"
       pinned:
         title: "置顶"
+        help: "将帖子摆放到最显眼位置"
       archived:
         help: "本主题已归档；即已经冻结，无法修改"
       invisible:
