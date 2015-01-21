@@ -127,6 +127,7 @@ zh_CN:
       post_count: "帖子"
       user_count: "用户"
     bookmarks:
+      title: "书签"
       not_logged_in: "抱歉，你需要先登录才能给帖子加书签"
       created: "你已经为此贴添加书签"
       not_bookmarked: "你已经阅读过此帖；点此为其添加书签"
@@ -822,9 +823,6 @@ zh_CN:
         visible: "使其列于主题列表"
         reset_read: "重置阅读数据"
         multi_select: "选择帖子"
-      bookmarked:
-        title: '书签'
-        help： '在这里放置书签'
       reply:
         title: '回复'
         help: '开始给本主题撰写回复'
