@@ -1679,11 +1679,11 @@ zh_CN:
           active: '活动用户'
           new: '新用户'
           pending: '等待审核用户'
-          newuser: '信用等级为0的用户（新用户）'
-          basic: '信用等级为1的用户（基本用户）'
-          regular: '信用等级为2的用户（成员）'
-          leader: '信用等级为3的用户（常规）'
-          elder: '信用等级为4的用户（领导）'
+          newuser: '信用等级为0的用户（新手）'
+          basic: '信用等级为1的用户（精英）'
+          regular: '信用等级为2的用户（长老）'
+          leader: '信用等级为3的用户（元老）'
+          elder: '信用等级为4的用户（贵宾）'
           staff: "职员"
           admins: '管理员'
           moderators: '版主'
@@ -2014,16 +2014,16 @@ zh_CN:
           name: 编辑
           description: 首个帖子编辑
         basic_user:
-          name: 基础
+          name: 精英
           description: <a href="https://meta.discourse.org/t/what-do-user-trust-levels-do/4924/4">授予</a>所有常用社群功能
         member:
-          name: 成员
+          name: 长老
           description: <a href="https://meta.discourse.org/t/what-do-user-trust-levels-do/4924/5">已授予</a>邀请权限
         regular:
-          name: 常规
+          name: 元老
           description: <a href="https://meta.discourse.org/t/what-do-user-trust-levels-do/4924/6">已授予</a>重分类、重命名、跟踪链接和贵宾室
         leader:
-          name: 领导
+          name: 贵宾
           description: <a href="https://meta.discourse.org/t/what-do-user-trust-levels-do/4924/7">已授予</a> 全局编辑、固定、关闭、存档、分割和合并
         welcome:
           name: 欢迎
