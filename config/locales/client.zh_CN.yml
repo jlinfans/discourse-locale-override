@@ -325,8 +325,8 @@ zh_CN:
         instructions: "背景图片将被居中并且默认宽度为 590px。"
       email:
         title: "电子邮箱"
-        instructions: "绝不会被公开显示"
-        ok: "我们将邮件跟你确认"
+        instructions: "邮件地址不公开显示，如收不到激活邮件，请检查垃圾邮箱或邮箱地址是否正确。"
+        ok: "如收不到激活邮件，请检查垃圾邮箱或地址是否正确。"
         invalid: "请填写正确的电子邮箱地址"
         authenticated: "你的电子邮箱已经被 {{provider}} 验证了。"
         frequency:
